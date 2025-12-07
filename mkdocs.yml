@@ -1,0 +1,9 @@
+site_name: "Documentación Actividad Ejercicios 1 a 3"
+theme:
+  name: material de Pablo Lopez Cagigal # o el tema que prefieras
+
+nav:
+  - Inicio: index.md
+  - Ejercicio 1: ejercicio1/ejercicio1.md
+  - Ejercicio 2: ejercicio2/ejercicio2.md
+  - Ejercicio 3: ejercicio3/ejercicio3.md
