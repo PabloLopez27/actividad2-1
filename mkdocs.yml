@@ -1,6 +1,6 @@
 site_name: "Documentación Actividad Ejercicios 1 a 3"
 theme:
-  name: material de Pablo Lopez Cagigal # o el tema que prefieras
+  name: material de Pablo Lopez Cagigal 
 
 nav:
   - Inicio: index.md
