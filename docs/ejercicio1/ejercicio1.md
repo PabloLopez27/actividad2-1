@@ -74,5 +74,6 @@ Tendría que quedar así:
 
 # 8. Sitio Web
 Inicio del sitio web:
+https://pablolopez27.github.io/minima/
 
 ![imagen](ejercicio1fotos/8.png)
